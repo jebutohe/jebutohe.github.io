@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://jebutohe.github.io/sitemap/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/uLI/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/XZq/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/NUw/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/pgE/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/ZIK/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/iEc/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/yDO/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/PkF/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/Ehd/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/mHO/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/lCL/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/XZD/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/jWi/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/jSt/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/TjM/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/MSf/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/nbi/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/MLs/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/fXa/sitemap_index.jebutohe
+Sitemap: https://jebutohe.github.io/mIv/sitemap_index.jebutohe
